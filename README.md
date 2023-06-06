@@ -1,4 +1,4 @@
-# Desafio de programação para vaga de desenvolvedor
+# Desafio para vaga no time de dados na Manchester Investimentos
 
 Por favor leiam este documento do começo ao fim, com muita atenção.
 O intuito deste teste é avaliar seus conhecimentos técnicos em programação.
@@ -27,4 +27,9 @@ Você precisa ajudar a empresa XYZ a responder às seguintes perguntas usando se
 
 Você deve enviar suas descobertas e recomendações para a equipe de gerenciamento da empresa XYZ. Além disso, explicar como chegou a suas conclusões e quais são as limitações e implicações de suas análises.
 
+**Requisitos**
+
+1. Utilize Python e biblioteca Pandas para fazer as análises nos dados.
+2. O arquivo EXCEL possui duas abas, utilize-as para conseguir as corretas descrições das categorias de produtos.
+3. Utilize gráficos e outros componentes visuais para melhorar sua análise e embasamento de sua conclusão.
 
