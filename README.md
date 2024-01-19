@@ -35,4 +35,4 @@ Você deve enviar suas descobertas e recomendações para a equipe de gerenciame
 
 **E-mail da Entrega**
 
-![Texto](Gráficos/Faixa%20etaria.png)
+![Texto]([Gráficos/Faixa%20etaria.png](https://github.com/vRieper/desafio-data-analytics/blob/main/Faixa%20etaria.png?raw=true)https://github.com/vRieper/desafio-data-analytics/blob/main/Faixa%20etaria.png?raw=true)
