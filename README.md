@@ -33,3 +33,6 @@ Você deve enviar suas descobertas e recomendações para a equipe de gerenciame
 2. O arquivo EXCEL possui duas abas, utilize-as para conseguir as corretas descrições das categorias de produtos.
 3. Utilize gráficos e outros componentes visuais para melhorar sua análise e embasamento de sua conclusão.
 
+**E-mail da Entrega**
+
+![Texto](Gráficos/Faixa%20etaria.png)
