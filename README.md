@@ -8,7 +8,7 @@ De: Vinícius Moretoni Rieper
 
 Assunto: Relatório de Análise de Dados
 
-##Qual é o perfil demográfico dos clientes da empresa XYZ?
+## Qual é o perfil demográfico dos clientes da empresa XYZ?
 
 ## A empresa possui sua clientela concentrada principalmente na região sul, seguida pela região nordeste e sudeste, devido à proximidade entre as regiões sul e sudeste, é possível afirmar que a densidade de clientes está direcionada para o sul do país. No entanto, é importante ressaltar que ainda há mais clientes no nordeste do que no sudeste.
 
@@ -17,9 +17,15 @@ Assunto: Relatório de Análise de Dados
 ## Não há clientes na faixa etária de 0-19 anos e 30-40 anos.
 ## Há menos clientes nas faixas etárias mais altas, com quatro na faixa de 50-59 anos e cinco na faixa de 60 anos ou mais.
 ## A maioria dos clientes desta empresa está na meia-idade. A empresa pode querer considerar estratégias de marketing direcionadas para atrair mais clientes jovens e idosos.
-![texto](https://github.com/vRieper/desafio-data-analytics/blob/main/Faixa%20etaria.png?raw=true)
+![Faixa Etária](https://github.com/vRieper/desafio-data-analytics/blob/main/Faixa%20etaria.png?raw=true)
 
-![texto](https://github.com/vRieper/desafio-data-analytics/blob/main/Clientes%20estado.png?raw=true)
+
+## Paraíba tem o maior número de clientes, com um total de 8.
+## Santa Catarina vem em segundo lugar com 7 clientes.
+## Paraná tem o menor número de clientes, com apenas 2.
+## Empresa tem uma presença significativa na Paraíba e em Santa Catarina, mas pode precisar aumentar sua base de clientes no Paraná.
+
+![Cliente por Estado](https://github.com/vRieper/desafio-data-analytics/blob/main/Clientes%20estado.png?raw=true)
 
 ## Qual a categoria de produto mais vendidas e a menos vendidas?
 
