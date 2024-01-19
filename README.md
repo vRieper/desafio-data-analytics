@@ -100,9 +100,9 @@ Assunto: Relatório de Análise de Dados
 
 ## Limitações
 
-• Falta de um período maior de datas: Em algumas análises ficamos com dados que tinha menos de 1 ano, com um período maior de dados seria mais eficiente identificar as flutuações sazonais.
+• Falta de uma amostra maior de datas: Em algumas análises ficamos com dados que tinham menos de 1 ano, com uma amostra maior de dados seria mais eficiente identificar as flutuações sazonais.
 
-• Restrição na quantidade de dados: Com uma amostra limitada de dados, nossas análises ficam limitadas a conclusões generalizadas.
+• Restrição na quantidade de dados: Com uma amostra limitada de dados, nossas análises ficam limitadas e as conclusões se tornam generalizadas.
 
 ## Implicações
 
