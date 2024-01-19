@@ -10,7 +10,7 @@ Assunto: Relatório de Análise de Dados
 
 ## Qual é o perfil demográfico dos clientes da empresa XYZ?
 
-•A empresa possui sua clientela concentrada principalmente na região sul, seguida pela região nordeste e sudeste, devido à proximidade entre as regiões sul e sudeste, é possível afirmar que a densidade de clientes está direcionada para o sul do país. No entanto, é importante ressaltar que ainda há mais clientes no nordeste do que no sudeste.
+• A empresa possui sua clientela concentrada principalmente na região sul, seguida pela região nordeste e sudeste, devido à proximidade entre as regiões sul e sudeste, é possível afirmar que a densidade de clientes está direcionada para o sul do país. No entanto, é importante ressaltar que ainda há mais clientes no nordeste do que no sudeste.
 
 • A maior concentração de clientes está na faixa etária de 40-50 anos, com um total de 17 clientes.
 
@@ -97,3 +97,14 @@ Assunto: Relatório de Análise de Dados
 • Análisando o gráfico, temos que algumas faixas etárias tem zero interesse em todos os produtos, como os cliente de 0-20 anos e 30-40, já conseguimos perceber a dominancia de todos os produtos menos a área de Jardinagem da faixa etária 40-50, assim como a jardinagem tendo impacto somente nas faixas 20-30 e 50-60.
 
 ![Disperçãp](https://github.com/vRieper/desafio-data-analytics/blob/main/Disper%C3%A7%C3%A3o%20.png?raw=true)
+
+## Limitações
+
+• Falta de um período maior de datas: Em algumas análises ficamos com dados que tinha menos de 1 ano, com um período maior de dados seria mais eficiente identificar as flutuações sazonais.
+
+• Restrição na quantidade de dados: Com uma amostra limitada de dados, nossas análises ficam limitadas a conclusões generalizadas.
+
+## Implicações
+
+• A análise revela uma oportunidade significativa para aprimorar as estratégias de marketing da empresa. A adaptação a questões sazonais, consideração das variações climáticas regionais, segmentação da comunicação por faixa etária e expansão da presença em regiões específicas são pontos essenciais para impulsionar o crescimento do negócio.
+
