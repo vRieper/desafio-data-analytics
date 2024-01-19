@@ -11,7 +11,9 @@ Assunto: Relatório de Análise de Dados
 ## Qual é o perfil demográfico dos clientes da empresa XYZ?
 
 •A empresa possui sua clientela concentrada principalmente na região sul, seguida pela região nordeste e sudeste, devido à proximidade entre as regiões sul e sudeste, é possível afirmar que a densidade de clientes está direcionada para o sul do país. No entanto, é importante ressaltar que ainda há mais clientes no nordeste do que no sudeste.
+
 • A maior concentração de clientes está na faixa etária de 40-50 anos, com um total de 17 clientes.
+
 • A segunda maior concentração está na faixa de 20-30 anos, com 10 clientes.
 • Não há clientes na faixa etária de 0-19 anos e 30-40 anos.
 • Há menos clientes nas faixas etárias mais altas, com quatro na faixa de 50-59 anos e cinco na faixa de 60 anos ou mais.
