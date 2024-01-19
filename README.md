@@ -36,7 +36,7 @@ Assunto: Relatório de Análise de Dados
 
 ![Cliente por Estado](https://github.com/vRieper/desafio-data-analytics/blob/main/Clientes%20estado.png?raw=true)
 
-##Qual a categoria de produto mais vendidas e a menos vendidas?
+## Qual a categoria de produto mais vendidas e a menos vendidas?
 
 • O produto mais vendido é UTILIDADES DOMÉSTICAS, com 2372 unidades vendidas.
 
@@ -92,7 +92,7 @@ Assunto: Relatório de Análise de Dados
 
 ![Vendas no Nordeste](https://github.com/vRieper/desafio-data-analytics/blob/main/vendas%20nordeste.png?raw=true)
 
-##Há alguma correlação entre a idade dos clientes e as categorias de produtos que eles compram?
+## Há alguma correlação entre a idade dos clientes e as categorias de produtos que eles compram?
 
 • Análisando o gráfico, temos que algumas faixas etárias tem zero interesse em todos os produtos, como os cliente de 0-20 anos e 30-40, já conseguimos perceber a dominancia de todos os produtos menos a área de Jardinagem da faixa etária 40-50, assim como a jardinagem tendo impacto somente nas faixas 20-30 e 50-60.
 
