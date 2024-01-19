@@ -29,19 +29,31 @@ Assunto: Relatório de Análise de Dados
 
 ## Qual a categoria de produto mais vendidas e a menos vendidas?
 
-## A Categoria mais vendida é Utilidades Domésticas com 2372 vendas
-![texto](https://github.com/vRieper/desafio-data-analytics/blob/main/Quantidade%20vendida%20por%20produto.png?raw=true)
-Há alguma relação entre as vendas e a época do ano?
-![texto](https://github.com/vRieper/desafio-data-analytics/blob/main/Vendas%20por%20mes.png?raw=true)
+## O produto mais vendido é UTILIDADES DOMÉSTICAS, com 2372 unidades vendidas.
+## JARDINAGEM é o produto menos vendido, com 1533 unidades.
+## Empresa tem uma forte demanda por utilidades domésticas e produtos de limpeza. No entanto, pode haver oportunidades para aumentar as vendas de produtos de jardinagem.
 
-##Qual é a tendência de vendas por região geográfica?
+![Vendas por Categoria](https://github.com/vRieper/desafio-data-analytics/blob/main/Quantidade%20vendida%20por%20produto.png?raw=true)
 
-![texto](https://github.com/vRieper/desafio-data-analytics/blob/main/vendas%20no%20sul.png?raw=true)
+## Há alguma relação entre as vendas e a época do ano?
 
-![texto](https://github.com/vRieper/desafio-data-analytics/blob/main/vendas%20no%20sudeste.png?raw=true)
+- Há um pico significativo de vendas em janeiro e setembro, com 1742 e 2000 unidades vendidas, respectivamente
 
-![texto](https://github.com/vRieper/desafio-data-analytics/blob/main/vendas%20nordeste.png?raw=true)
+## As vendas diminuem consistentemente de janeiro a junho, atingindo o ponto mais baixo em junho com apenas 51 itens vendidos.
+
+## A partir de junho, as vendas começam a aumentar novamente, atingindo outro pico em setembro.
+
+## empresa tem duas altas sazonais de vendas em janeiro e setembro, com uma queda acentuada nos meses intermediários
+![Vendas por mês](https://github.com/vRieper/desafio-data-analytics/blob/main/Vendas%20por%20mes.png?raw=true)
+
+## Qual é a tendência de vendas por região geográfica?
+
+![Vendas no Sul](https://github.com/vRieper/desafio-data-analytics/blob/main/vendas%20no%20sul.png?raw=true)
+
+![Vendas no Sudeste](https://github.com/vRieper/desafio-data-analytics/blob/main/vendas%20no%20sudeste.png?raw=true)
+
+![Vendas no Nordeste](https://github.com/vRieper/desafio-data-analytics/blob/main/vendas%20nordeste.png?raw=true)
 
 ##Há alguma correlação entre a idade dos clientes e as categorias de produtos que eles compram?
 
-![texto](https://github.com/vRieper/desafio-data-analytics/blob/main/Disper%C3%A7%C3%A3o%20.png?raw=true)
+![Disperçãp](https://github.com/vRieper/desafio-data-analytics/blob/main/Disper%C3%A7%C3%A3o%20.png?raw=true)
